@@ -1,4 +1,4 @@
-# 22 - Planet-Scale Infrastructure Intelligence Platform (Go)
+# Planet-Scale Infrastructure Intelligence Platform (Go)
 
 ## Executive Overview
 A distributed telemetry ingestion, clustering, and anomaly detection platform written in **Go 1.21+**. It features an asynchronous **peer-to-peer gossip protocol** for cluster membership and heartbeat failure detection, coupled with an adaptive **Exponentially Weighted Moving Average (EWMA)** online time-series anomaly detector.
