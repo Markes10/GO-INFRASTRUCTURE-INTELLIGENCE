@@ -1,0 +1,8 @@
+{
+  "id": "22",
+  "name": "22-go-infrastructure-intelligence",
+  "title": "Planet-Scale Infrastructure Intelligence Platform",
+  "language": "Go",
+  "domain": "Cloud Infrastructure & Distributed Systems Telemetry",
+  "description": "High-throughput concurrent Go platform featuring distributed gossip clustering, dynamic EWMA time-series anomaly detection, and node failure detection."
+}
